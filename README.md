@@ -7,5 +7,5 @@
 
 ### Assign_TokenLifetimePolicies.ps1
 
-### 15_Linked_Policies.ps1
+### Linked_Policies.ps1
 
