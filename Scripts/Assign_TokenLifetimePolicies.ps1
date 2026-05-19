@@ -1,3 +1,4 @@
+# https://learn.microsoft.com/en-us/entra/identity-platform/configure-token-lifetimes
 # === Input: Tenant/Auth Info ===
 $tenantId     = "your-tenant-id"
 $clientId     = "your-client-id"
