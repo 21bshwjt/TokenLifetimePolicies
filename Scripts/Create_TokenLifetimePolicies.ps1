@@ -1,3 +1,4 @@
+# https://learn.microsoft.com/en-us/entra/identity-platform/configure-token-lifetimes
 # Policy.ReadWrite.ApplicationConfiguration
 #region Authentication & Authorization
 # Get Token
